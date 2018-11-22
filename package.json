@@ -1,0 +1,20 @@
+{
+  "name": "vk-archive-parser",
+  "version": "1.0.0",
+  "description": "Used for parsing vk-archive to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vk",
+    "archive",
+    "parse"
+  ],
+  "author": "AndrewBeletskiy",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.4.24",
+    "parse5": "^5.1.0"
+  }
+}
