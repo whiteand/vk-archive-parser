@@ -1,6 +1,6 @@
 {
   "name": "vk-archive-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Used for parsing vk-archive to json",
   "main": "index.js",
   "scripts": {
@@ -12,9 +12,18 @@
     "parse"
   ],
   "author": "AndrewBeletskiy",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "iconv-lite": "^0.4.24",
     "parse5": "^5.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiteand/vk-archive-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/whiteand/vk-archive-parser/issues"
+  },
+  "homepage": "https://github.com/whiteand/vk-archive-parser#readme"
 }

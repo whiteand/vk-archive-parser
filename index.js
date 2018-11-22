@@ -9,8 +9,6 @@ const insplog = (...values) => {
 }
 const iconv = require('iconv-lite')
 const parse5 = require('parse5')
-const moment = require('moment')
-moment.locale('ru')
 const MESSAGES_FOLDER = 'messages'
 const MESSAGE_CLASS = 'message'
 const MESSAGE_HEADER_CLASS = 'message__header'
